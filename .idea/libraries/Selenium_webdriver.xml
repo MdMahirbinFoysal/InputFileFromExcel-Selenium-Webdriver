@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Selenium webdriver">
+    <CLASSES>
+      <root url="jar://C:/Selenium webdriver/commons-io-2.15.1/commons-io-2.15.1-tests.jar!/" />
+      <root url="jar://C:/Selenium webdriver/commons-io-2.15.1/commons-io-2.15.1.jar!/" />
+      <root url="file://C:/Selenium webdriver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Selenium webdriver/commons-io-2.15.1/commons-io-2.15.1-sources.jar!/" />
+      <root url="jar://C:/Selenium webdriver/commons-io-2.15.1/commons-io-2.15.1-test-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Selenium webdriver" recursive="false" />
+  </library>
+</component>
